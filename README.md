@@ -77,6 +77,49 @@ Evaluation Metrics:
 8. Model Saving
 9. Model Deployment (Streamlit App)
 
+
 ---
 
-## 📂 Project Structure
+## 📊 Model Performance
+
+The model was evaluated using:
+
+- Train-Test Split
+- Accuracy Score
+- Confusion Matrix
+- Multi-Class Classification Metrics
+
+The Random Forest model achieved high accuracy in predicting diseases based on symptom combinations.
+
+---
+
+## 🔍 Key Features
+
+- Multi-class disease classification
+- Severity-based symptom weighting
+- Precaution recommendation system
+- User-friendly interactive interface
+- Scalable and deployable architecture
+
+---
+
+## 🚀 Future Enhancements
+
+- Integration with real-time medical APIs
+- Deep Learning-based model implementation
+- Explainable AI (Feature Importance visualization)
+- Cloud deployment (AWS / Streamlit Cloud)
+- Mobile application integration
+
+---
+
+## 👨‍💻 Author
+
+Divyesh P
+BE – Artificial Intelligence & Machine Learning  
+
+---
+
+## 📜 License
+
+This project is open-source and available for educational and research purposes.
